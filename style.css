@@ -30,7 +30,7 @@
 .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 .task-wrapper {
     display: flex;
@@ -136,7 +136,7 @@ input,button{
 
 /* Edit Task */
 .task-list .list-item .text-input {
-    display:none
+    display:none;
 }
 
 .task-list .list-item.edit-mode .text-input {
