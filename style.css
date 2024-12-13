@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.main-banner { text-align: center;
-}
+  .main-banner {
+    text-align: center;
+  }
 }
 .central-unit {
     display: block;
@@ -115,7 +116,7 @@ input,button{
     font-size: 18px;
     width: 226px;
 }
-.list-item >    .text-input {
+.list-item > .text-input {
     width: 226px
 }
 .remove {
