@@ -137,11 +137,11 @@ button{
 }
 
 /* Edit Task */
-.task-list .list-item .text-input {
+.task-list .list-item input.task {
     display:none;
 }
 
-.task-list .list-item.edit-mode .text-input {
+.task-list .list-item.edit-mode input.task {
     display:inline-block;
     width:224px
 }
